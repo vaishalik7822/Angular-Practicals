@@ -40,7 +40,9 @@ The practical programs demonstrate important concepts of modern frontend develop
 | 12 | React | Practical-12 | Digital Clock | ✅ Completed |
 
 
-📂 Repository Structure
+## 📁 Repository Structure
+
+```text
 Angular-Practicals/
 │
 ├── Angular/
@@ -57,6 +59,7 @@ Angular-Practicals/
 │   ├── Practical-09/
 │   ├── Practical-10/
 │   ├── Practical-11/
-│   └── Practical-12/  
+│   └── Practical-12/
 │
 └── README.md
+```
