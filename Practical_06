@@ -18,7 +18,7 @@ export class AppComponent {
   title = 'portfolio';
 
   student = {
-    name: 'Mayur Pawar',
+    name: 'Vaishali Kalshetti',
     title: 'Python Full Stack Developer',
     bio: 'Passionate Computer Science student interested in Python, Data Analytics, AI, Machine Learning and modern web technologies.',
 
@@ -53,10 +53,10 @@ export class AppComponent {
     ],
 
     contact: {
-      email: 'mayurpawar1019@gmail.com',
+      email: 'kalshettivaishali99@gmail.com',
       phone: '+91-123466787',
-      linkedin: 'https://mayurpawar/',
-      github: 'https://mayurpawar/'
+      linkedin: 'https://vaishali/',
+      github: 'https://vaishalikalshetti/'
     }
   };
 }
